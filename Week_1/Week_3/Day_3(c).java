@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] ans = new int[nums1.length];
 
